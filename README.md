@@ -117,3 +117,9 @@ sha256sum -c SHA256SUMS.txt
 ## 📜 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+## Credits
+
+Created and maintained by [Web Weavers World](https://webweaversworld.co.uk)
